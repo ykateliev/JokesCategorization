@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yane\\source\\repos\\JokesCategorization\\JokesCategorizationBG\\JokesCategorizationBG.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yane\\source\\repos\\JokesCategorization\\JokesCategorizationBG\\JokesCategorizationBG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yane\\source\\repos\\JokesCategorization\\JokesCategorizationBG\\JokesCategorizationBG.csproj",
+        "projectName": "JokesCategorizationBG",
+        "projectPath": "C:\\Users\\yane\\source\\repos\\JokesCategorization\\JokesCategorizationBG\\JokesCategorizationBG.csproj",
+        "packagesPath": "C:\\Users\\yane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yane\\source\\repos\\JokesCategorization\\JokesCategorizationBG\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[0.13.0, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
