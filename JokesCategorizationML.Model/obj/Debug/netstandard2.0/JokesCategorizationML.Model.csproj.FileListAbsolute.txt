@@ -1,0 +1,9 @@
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\bin\Debug\netstandard2.0\JokesCategorizationML.Model.deps.json
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\bin\Debug\netstandard2.0\JokesCategorizationML.Model.dll
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\bin\Debug\netstandard2.0\JokesCategorizationML.Model.pdb
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\obj\Debug\netstandard2.0\JokesCategorizationML.Model.csprojAssemblyReference.cache
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\obj\Debug\netstandard2.0\JokesCategorizationML.Model.AssemblyInfoInputs.cache
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\obj\Debug\netstandard2.0\JokesCategorizationML.Model.AssemblyInfo.cs
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\obj\Debug\netstandard2.0\JokesCategorizationML.Model.dll
+C:\Users\yane\source\repos\JokesCategorization\JokesCategorizationML.Model\obj\Debug\netstandard2.0\JokesCategorizationML.Model.pdb
